@@ -1,5 +1,9 @@
 # omegle-ipfinder-code
 
+
+![Project screenshot](./screenshot.png)
+
+
 ## Project Status
 
 Omegle finder project pending fuller documentation and setup notes. This Phase 3 pass standardises repository hygiene without inventing live deployment details or showcase assets.
